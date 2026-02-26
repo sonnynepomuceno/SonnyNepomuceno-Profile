@@ -47,6 +47,16 @@ export default {
           desc:  'Order transmission monitoring platform that tracks and manages the flow of order data across the production pipeline.',
           tags:  ['Vue.js', 'Vuetify 3', 'Node.js', 'MySQL'],
         },
+        {
+          title: 'PlasterBoard Monitoring System',
+          desc:  'tracking of specific product real-time status across departments, providing comprehensive insights into production progress and potential bottlenecks.',
+          tags:  ['Vue.js', 'Vuetify 3', 'Node.js', 'MySQL'],
+        },
+        {
+          title: 'Denki Confirmation Ps5 Monitoring System',
+          desc:  'Centralize Confirmation for both departments automatic process if the data conflict between two departments.',
+          tags:  ['Vue.js', 'Vuetify 3', 'Node.js', 'MySQL'],
+        },
       ],
     }
   },
